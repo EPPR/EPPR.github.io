@@ -1,5 +1,6 @@
-# Bienvenidx
-Escuela de Programación y Pensamiento Recursivo
+# EPPR.github.io
+
+### Bienvenidx a la Escuela de Programación y Pensamiento Recursivo
 
 ## GIST
 
