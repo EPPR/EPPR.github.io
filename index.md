@@ -6,7 +6,7 @@
 
 ¿Estás buscando la lista de Repositorios públicos de la EPPR?
 
-[Ver Todos](https://github.com/EPPR)
+[Ver Repos Públicos](https://github.com/EPPR)
 
 ## GIST
 
@@ -19,6 +19,10 @@
 ¿Estás buscando la lista de todos los cursos y clases disponibles?
 
 [Click Aquí](https://eppr.github.io/clases/)
+
+### Clase 204
+
+- [github.com/EPPR/204](https://github.com/EPPR/204)
 
 ### Clase 203
 
