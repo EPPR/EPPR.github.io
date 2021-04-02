@@ -2,11 +2,23 @@
 
 ### Bienvenidx a la Escuela de Programación y Pensamiento Recursivo
 
+## REPOS
+
+¿Estás buscando la lista de Repositorios públicos de la EPPR?
+
+[Ver Todos](https://github.com/EPPR)
+
 ## GIST
 
 ¿Estás buscando la lista de GISTs públicos de la EPPR?
 
 [Ver Todos](https://gist.github.com/recurs1v0)
+
+## CLASES
+
+¿Estás buscando la lista de todos los cursos y clases disponibles?
+
+[Click Aquí](https://eppr.github.io/clases/)
 
 ### Clase 203
 
@@ -19,12 +31,6 @@
 - [README.md](https://gist.github.com/recurs1v0/0b6ab2f5e7ee9abe244317aea6deeadc)
 - [countryCode.csv](https://gist.github.com/recurs1v0/081c5740e462e9e21f6eaae4c1312d8b)
 
-
-## CLASES
-
-¿Estás buscando la lista de todos los cursos y clases disponibles?
-
-[Click Aquí](https://eppr.github.io/clases/)
 
 ## REGISTRO
 
